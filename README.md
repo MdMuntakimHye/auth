@@ -20,3 +20,6 @@ in terminal install the modules with the following commands:
 7. npm i bcrypt    for password hashing
 8. npm i nodemailer   for mailing 
 9. npm i cors    connect/express middleware
+
+
+here are the screen shots
