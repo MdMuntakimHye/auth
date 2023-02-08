@@ -22,4 +22,5 @@ in terminal install the modules with the following commands:
 9. npm i cors    connect/express middleware
 
 
-here are the screen shots
+here are the screen shots and testing documentation
+[Authentication module Documentation.docx](https://github.com/MdMuntakimHye/auth/files/10683573/Authentication.module.Documentation.docx)
